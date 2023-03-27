@@ -19,7 +19,7 @@
   title = 	"参照例を使わないキャッチコピーの自動評価",
   booktitle = 	"言語処理学会第29回年次大会",
   year =	"2023",
-  url = "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/A7-2.pdf"
+  url = "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/A7-2.pdf",
   note= "in Japanese"
 }
 ```
